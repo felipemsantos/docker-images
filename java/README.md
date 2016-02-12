@@ -10,16 +10,16 @@ Includes BASH, since many Java applications like to have convoluted BASH start-u
 
 ### Versions
 
-**JRE8/JDK8 Version**: `8-74-02`  
+**JRE8/JDK8 Version**: `8u74-b02`  
 **JRE7/JDK7 Version**: `7u80-b15`
 
 ### Tags
 
 | Java version      | tags                    | Size |
 | ----------------- | ----------------------- | ---- |
-| Oracle Java 8 JRE | latest / 8 / jre / jre8 | [![](https://badge.imagelayers.io/felipemsantos/docker-java:jre8.svg)](https://imagelayers.io/?images=felipemsantos/docker-java:jre8) |
-| Oracle Java 8 JDK | jdk / jdk8              | [![](https://badge.imagelayers.io/felipemsantos/docker-java:jdk8.svg)](https://imagelayers.io/?images=felipemsantos/docker-java:jdk8) |
-| Oracle Java 7 JRE | 7 / jre7                | [![](https://badge.imagelayers.io/felipemsantos/docker-java:jre8.svg)](https://imagelayers.io/?images=felipemsantos/docker-java:jre7) |
+| Oracle Java 8 JRE | latest / jre8 | [![](https://badge.imagelayers.io/felipemsantos/docker-java:jre8.svg)](https://imagelayers.io/?images=felipemsantos/docker-java:jre8) |
+| Oracle Java 8 JDK | jdk8              | [![](https://badge.imagelayers.io/felipemsantos/docker-java:jdk8.svg)](https://imagelayers.io/?images=felipemsantos/docker-java:jdk8) |
+| Oracle Java 7 JRE | jre7                | [![](https://badge.imagelayers.io/felipemsantos/docker-java:jre8.svg)](https://imagelayers.io/?images=felipemsantos/docker-java:jre7) |
 | Oracle Java 7 JDK | jdk7                    | [![](https://badge.imagelayers.io/felipemsantos/docker-java:jdk7.svg)](https://imagelayers.io/?images=felipemsantos/docker-java:jdk7) |
 
 
