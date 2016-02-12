@@ -7,7 +7,7 @@ services:
 
 before_install:
   - docker info
-  - docker build -t felipemsantos/docker-java Java/8/jre/
+  - docker build -t felipemsantos/docker-java java/8/jre/
 
 script:
   - docker run -it --rm felipemsantos/docker-java java -version
