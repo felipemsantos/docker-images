@@ -1,7 +1,5 @@
 ## Java Images
 
-[![Build Status](https://travis-ci.org/felipemsantos/docker-java.svg?branch=master)](https://travis-ci.org/felipemsantos/docker-java)
-
 [![](https://badge.imagelayers.io/felipemsantos/docker-java:latest.svg)](https://imagelayers.io/?images=felipemsantos/docker-java:latest)
 
 Basic [Docker](https://www.docker.com/) image to run [Java](https://www.java.com/) applications.
