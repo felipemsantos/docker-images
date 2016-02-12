@@ -1,5 +1,5 @@
-# AlpineLinux (latest) with a glibc-2.21 and Oracle Java 7
-FROM alpine:latest
+# AlpineLinux (3.3) with a glibc-2.21 and Oracle Java 7
+FROM alpine:3.3
 
 MAINTAINER Felipe Santos <felipemsantos@gmail.com>
 
