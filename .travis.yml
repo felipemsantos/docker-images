@@ -1,0 +1,13 @@
+sudo: required
+
+language: c
+
+services:
+  - docker
+
+before_install:
+  - docker info
+  - docker build -t felipemsantos/docker-java 8/jre/
+
+script:
+  - docker run -it --rm felipemsantos/docker-java java -version
